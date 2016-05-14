@@ -1,5 +1,5 @@
 {
-  "name": "petercoles/multilingual-country-list",
+  "name": "ericlagarda/multilingual-country-list-php5.5",
   "type": "library",
   "description": "Lookup Objects for ISO 3166 Country Names and Codes",
   "keywords": ["country lists", "country lookup", "country codes", "ISO 3166", "laravel"],
@@ -16,7 +16,7 @@
       "issues": "https://github.com/petercoles/multilingual-country-list/issues"
   },
   "require": {
-    "php": ">=5.6.0",
+    "php": ">=5.5.0",
     "illuminate/support": "~5"
   },
   "require-dev": {
