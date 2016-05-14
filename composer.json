@@ -1,5 +1,5 @@
 {
-  "name": "ericlagarda/multilingual-country-list-php5.5",
+  "name": "ericlagarda/multilingual-country-list-php5-5",
   "type": "library",
   "description": "Lookup Objects for ISO 3166 Country Names and Codes",
   "keywords": ["country lists", "country lookup", "country codes", "ISO 3166", "laravel"],
