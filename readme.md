@@ -1,4 +1,6 @@
-# Multilingual Country Lists for Laravel and PHP < 5.5.9
+# Multilingual Country Lists for Laravel 5
+
+# For PHP < 5.5.9
 
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/18292467-2547-461a-89bc-c0f77a1be286/mini.png)](https://insight.sensiolabs.com/projects/18292467-2547-461a-89bc-c0f77a1be286)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/petercoles/Multilingual-Country-List/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/petercoles/Multilingual-Country-List/?branch=master)
