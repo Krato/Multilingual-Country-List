@@ -23,7 +23,7 @@ Data can be returned as a lookup array or an array of key-value pairs, where bot
 At the command line run
 
 ```
-composer require ericlagarda/multilingual-country-list
+composer require ericlagarda/multilingual-country-list-php5-5
 ```
 
 then add the service provider to the providers entry in your config/app.php file
